@@ -1,0 +1,20 @@
+{
+  "name": "learning_typescript",
+  "version": "1.0.0",
+  "description": "Источники\r https://www.youtube.com/watch?v=G7fNaZwIoiM&list=PLiZoB8JBsdzlG1oAY8U4vrBtVW07j6jil&index=1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Daskendrik/learning_typescript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Daskendrik/learning_typescript/issues"
+  },
+  "homepage": "https://github.com/Daskendrik/learning_typescript#readme"
+}
